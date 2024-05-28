@@ -1,0 +1,15 @@
+C:\Users\sasha\source\repos\RingList\RingList\bin\Debug\net5.0\RingList.exe
+C:\Users\sasha\source\repos\RingList\RingList\bin\Debug\net5.0\RingList.deps.json
+C:\Users\sasha\source\repos\RingList\RingList\bin\Debug\net5.0\RingList.runtimeconfig.json
+C:\Users\sasha\source\repos\RingList\RingList\bin\Debug\net5.0\RingList.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\RingList\RingList\bin\Debug\net5.0\RingList.dll
+C:\Users\sasha\source\repos\RingList\RingList\bin\Debug\net5.0\RingList.pdb
+C:\Users\sasha\source\repos\RingList\RingList\obj\Debug\net5.0\RingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\RingList\RingList\obj\Debug\net5.0\RingList.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\RingList\RingList\obj\Debug\net5.0\RingList.AssemblyInfo.cs
+C:\Users\sasha\source\repos\RingList\RingList\obj\Debug\net5.0\RingList.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\RingList\RingList\obj\Debug\net5.0\RingList.dll
+C:\Users\sasha\source\repos\RingList\RingList\obj\Debug\net5.0\refint\RingList.dll
+C:\Users\sasha\source\repos\RingList\RingList\obj\Debug\net5.0\RingList.pdb
+C:\Users\sasha\source\repos\RingList\RingList\obj\Debug\net5.0\RingList.genruntimeconfig.cache
+C:\Users\sasha\source\repos\RingList\RingList\obj\Debug\net5.0\ref\RingList.dll
